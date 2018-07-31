@@ -1,0 +1,9 @@
+#install
+
+pip install keras
+
+pip install --ignore-installed --upgrade tensorflow
+
+pip install --ignore-installed --upgrade matplotlib
+
+pip install opencv-python
